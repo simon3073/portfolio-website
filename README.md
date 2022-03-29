@@ -2,8 +2,8 @@
 This repo is the working project of the Front-End portion of the program.
 
 <h3>What does it do?</h3>
-A 4 page website hosted here it showcases ffront end tools used to build a website. 
-It uses HTML, CSS (including variables, pre and postprocessors) as well as utilising Git for version control
+A 4 page website hosted here it showcases front end tools used to build a portfolio website. 
+It uses HTML, CSS (including variables, pre and postprocessors) as well as utilising Git and GitHub for version control and hosting.
 
 ***
 <br/>
@@ -14,14 +14,14 @@ It uses HTML, CSS (including variables, pre and postprocessors) as well as utili
 
 - 🌱 I’m currently learning **React, Git, MongoDB**
 
-- 👨‍💻 All of my projects are currently available at simonbertoli.com and my GitHub and Codepen profiles (links below)
+- 👨‍💻 All of my projects are currently available at my <a href="https://github.com/simon3073" target="_blank">Github Homepage</a>, at <a href="http://simonbertoli.com" target="_blank">simonbertoli.com</a> and at <a href="https://codepen.io/simon3073" target="_blank">CodePen</a> 
 
 - 📫 How to reach me **simonbertoli@yahoo.com.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/simon3073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@simon3073" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/simon-bertoli-5a73893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-bertoli-5a73893" height="30" width="40" /></a>
+<a href="https://codepen.io/simon3073" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@simon3073" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simon-bertoli-5a73893" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-bertoli-5a73893" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
