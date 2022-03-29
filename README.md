@@ -5,12 +5,10 @@ This repo is the working project of the Front-End portion of the program.
 A 4 page website hosted here it showcases ffront end tools used to build a website. 
 It uses HTML, CSS (including variables, pre and postprocessors) as well as utilising Git for version control
 
----
-
+***
 <br/>
-<br/>
-<h2 align="left">Who am I?</h2>
-<h3 align="left">Hi 👋, I'm Simon Bertoli - An Old and New developer from Melbourne</h3>
+<h2 align="left"><i>Who am I?</i></h2>
+<h3 align="left">I'm Simon Bertoli 👋 - An Old and New developer from Melbourne</h3>
 
 - 🔭 I’m currently working on **my Full-Stack Web Development Program at Career Foundry**
 
@@ -22,7 +20,7 @@ It uses HTML, CSS (including variables, pre and postprocessors) as well as utili
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@simon3073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@simon3073" height="30" width="40" /></a>
+<a href="https://codepen.io/simon3073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@simon3073" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simon-bertoli-5a73893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-bertoli-5a73893" height="30" width="40" /></a>
 </p>
 
