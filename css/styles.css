@@ -64,9 +64,8 @@ a:focus {
 	color: var(--link-hover);
 }
 
-a:active {
-	/* selected link */
-	color: #3b2699;
+input {
+	border: 1px solid var(--dark-grey);
 }
 
 .button,
